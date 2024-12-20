@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Vikas Mukhiya
+Hi there! 👋 I'm Vikas
 I'm an aspiring Full Stack Web Developer passionate about building dynamic and responsive web applications. 🚀
 
 👀 Interests
