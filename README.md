@@ -20,7 +20,7 @@ Frontend/Backend optimizations
 User-centric designs
 
 📫 Connect with Me
-GitHub: @vikasmukhiya1999
+GitHub: https://github.com/vikasmukhiya1999
 LinkedIn: https://linkedin.com/in/vikas-kumar-10ba63189
 
 
